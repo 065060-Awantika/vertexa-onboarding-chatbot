@@ -3,7 +3,7 @@
 An AI-powered onboarding chatbot built with Retrieval-Augmented Generation (RAG). It answers new-employee questions using Vertexa Systems' internal onboarding documents — IT setup, leave policy, reimbursements, communication flow, and more.
 
 ## 🚀 Live Demo
-👉 **[Try the chatbot here](PASTE_YOUR_STREAMLIT_LINK_HERE)**
+👉 **[Try the chatbot here]((https://vertexa-app-chatbot-s4nqw8eygknvn2vkxgutw5.streamlit.app/))**
 
 ## 🛠️ Tech Stack
 - **Embeddings:** sentence-transformers (all-MiniLM-L6-v2)
