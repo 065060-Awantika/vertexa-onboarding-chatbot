@@ -26,11 +26,3 @@ python build_index.py
 streamlit run app.py
 ```
 
-## 👥 Team
-- Awantika Kholia — 065060
-- Parv — 065040
-- Mayank Jha — 065036
-- Akshit Kansal — 065008
-- Aditi Agarwal — 065006
-
-Built for the AI Integration Group Project — AI for Managers.
