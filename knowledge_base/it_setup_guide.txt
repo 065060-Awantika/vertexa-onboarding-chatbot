@@ -1,0 +1,28 @@
+IT Setup Guide - Vertexa Systems
+
+1. Laptop and Account Setup
+New employees typically receive a laptop from the IT desk on or before Day 1. Your official company email ID is usually created a day before your joining date. Check with HR/IT if you have not received your login credentials by your first day.
+
+2. VPN Access
+To connect to the company VPN:
+- Download the approved VPN client from the IT Portal (e.g., GlobalProtect or equivalent, as instructed by IT).
+- Log in using your employee ID/official email as the username.
+- If login fails, first confirm you are connected to a stable internet connection, then contact the IT Helpdesk.
+
+3. Software and Tool Access Requests
+- Standard software (e.g., VS Code, Microsoft Teams, Zoom, browsers) is typically pre-installed on your laptop.
+- For additional software or access to internal tools (e.g., Jira, GitHub, cloud consoles), raise a request through the IT Portal under "Software/Access Request."
+- Access to project-specific tools (AWS console, database consoles, monitoring dashboards) is usually granted by your reporting manager or the relevant Team Lead once you are assigned to a project.
+
+4. Password Policy
+- Use a strong password combining uppercase, lowercase, numbers, and special characters.
+- Passwords should be changed periodically as per company policy (check with IT for the exact reset interval).
+- Never share your password or login credentials with anyone, including colleagues.
+
+5. Common IT Issues and Fixes
+- Forgot password: use the "Forgot Password" option on the login portal; resets are usually processed within a short time.
+- VPN not connecting: check your network connection first, then restart the VPN client before raising a ticket.
+- Software request pending: follow up with the IT Helpdesk if there is no update within the expected turnaround time.
+
+6. Raising an IT Ticket
+For any hardware, software, or access issue not covered above, raise a ticket via the IT Portal or email the IT Helpdesk directly, and CC your reporting manager for visibility.

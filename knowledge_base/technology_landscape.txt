@@ -1,0 +1,27 @@
+Technology Landscape - Vertexa Systems
+
+New team members work across a wide technology stack. Here is an overview of what you may encounter on projects:
+
+1. Physical Layer
+Servers, storage, backup devices, switches, routers, load balancers, and security devices.
+
+2. Cloud and Control Layer
+Private Cloud, Public Cloud, and Hybrid Cloud environments. Tools and platforms include OpenStack, OpenShift, OpenShift AI, Ansible, Terraform, AWS, and Azure. Infrastructure-as-Code (IaC) and monitoring tools are used extensively.
+
+3. Cybersecurity
+Ransomware Protection, Anti-DDoS, WAF (Web Application Firewall), IDAM (Identity and Access Management), SIEM, SOAR, NAC, DLP, and Vulnerability Assessment (VA).
+
+4. Operating Systems
+RedHat Linux, Ubuntu Linux, SUSE Linux, and Windows.
+
+5. Databases
+SQL: PostgreSQL, MySQL, Oracle DB.
+NoSQL: MongoDB, Redis, Cassandra, Hadoop, Elasticsearch, OpenSearch, ScyllaDB, and other distributed NoSQL systems.
+
+6. Message Brokers
+Kafka and RabbitMQ.
+
+Technology Partnerships
+Vertexa Systems maintains OEM partnerships with several leading global infrastructure, cloud, and security vendors. Employees may work with any of these technologies depending on the project and team assignment.
+
+New joiners are encouraged to check with their reporting manager to understand which specific stack applies to their project, and request relevant tool access through the IT Portal (see IT Setup Guide).

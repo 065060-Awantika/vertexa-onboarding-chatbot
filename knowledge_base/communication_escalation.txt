@@ -1,0 +1,27 @@
+Communication and Escalation Flow - Vertexa Systems
+
+Vertexa Systems follows a structured communication framework to ensure smooth collaboration between internal teams and client-facing stakeholders.
+
+Two-Way Communication Model
+- Incoming Path: Client requests and inputs flow through designated channels to the relevant technical teams for execution and delivery.
+- Outgoing Path: Updates and deliverables flow back through a structured approval process to client stakeholders for review.
+
+Official Channels
+- Email is used for formal documentation and tracking of requests, approvals, and decisions.
+- Microsoft Teams and calls are used for real-time discussion and immediate clarifications.
+- Dedicated Single Points of Contact (SPOCs) ensure proper escalation paths and accountability.
+
+Typical Escalation Path (Incoming requests from a client)
+Client SPOC -> Helpdesk / Program Management -> relevant Technical Team Lead (e.g. DevOps TL, Database TL, Cloud TL, or other specialized leads) -> Technical team member assigned to resolve the request.
+
+Typical Escalation Path (Outgoing updates to a client)
+Technical team -> respective Team Lead -> Program/Delivery Management -> Client SPOC.
+
+Why This Matters for New Employees
+- Always route formal requests and confirmations through email so there is a documented trail.
+- Use Teams/calls only for quick clarifications, not as a replacement for documented approvals.
+- If unsure who to escalate an issue to, contact the Helpdesk or your reporting manager first - they will route it to the correct Team Lead.
+- This dual-channel approach balances efficiency (fast clarification) with accountability (documented tracking).
+
+General IT Helpdesk Contact
+For any IT-related issue (access, software, hardware, account setup), raise a ticket through the IT Portal or email the IT Helpdesk. If it is urgent, follow up with your reporting manager.

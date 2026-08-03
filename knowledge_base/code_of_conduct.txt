@@ -1,0 +1,20 @@
+Code of Conduct - Vertexa Systems
+
+Workplace Norms
+- Maintain professionalism in all internal and client-facing communication (email, Teams, calls).
+- Be punctual for meetings, client calls, and daily work hours as per your team's schedule.
+- Treat colleagues, clients, and partners with respect; harassment or discriminatory behavior of any kind is not tolerated.
+
+Dress Code
+- Business casual is generally expected in office settings; check with your manager for client-visit specific dress requirements, which may be more formal.
+
+Confidentiality
+- Vertexa Systems is a Confidential-marked organization in several client engagements (as seen in internal presentations marked "Vertexa Systems Confidential"). Employees must not share internal documents, client information, or proprietary technical details outside the organization without authorization.
+- Be cautious when discussing client work in public or unsecured channels.
+
+Communication Etiquette
+- Use official channels (email) for formal matters and documentation, and Teams/calls for quick clarifications, as outlined in the Communication and Escalation policy.
+- Always loop in the appropriate stakeholders (reporting manager, Program Management) as required by team-specific escalation processes.
+
+Reporting Concerns
+- Any workplace concerns, conflicts, or code-of-conduct violations should be reported to HR or your reporting manager.
