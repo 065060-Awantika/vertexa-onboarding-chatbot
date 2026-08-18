@@ -23,13 +23,15 @@ Question: {question}
 Answer clearly and concisely:"""
 
     # Step 3: call the LLM
-    response = client.chat.completions.create(
-          model="openai/gpt-oss-120b",,
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.3,
-    )
-
-    return response.choices[0].message.content
+    try:
+        response = client.chat.completions.create(
+            model="openai/gpt-oss-120b",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        return f"Sorry, I ran into an error trying to answer that. ({str(e)})"
 
 if __name__ == "__main__":
     print("Onboarding Assistant (type 'quit' to exit)\n")
